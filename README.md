@@ -19,21 +19,21 @@ Just build with Xcode 13.
 
 #### Providing a Layer's Contents Ways <br>
 
-<img src="README_Resources/delegate_subclassing.gif" width="200">
+<img src="README_resources/delegate_subclassing.gif" width="200">
 
 #### CALayer Subtypes <br>
 
-<img src="README_Resources/emitter_layer.gif" width="200"> <img src="README_Resources/gradient_layer.png" width="200"> <img src="README_Resources/metal_layer.png" width="200"><br>
+<img src="README_resources/emitter_layer.gif" width="200"> <img src="README_resources/gradient_layer.png" width="200"> <img src="README_resources/metal_layer.png" width="200"><br>
 
-<img src="README_Resources/reprecator_layer.gif" width="200"> <img src="README_Resources/scroll_layer.gif" width="200"> <img src="README_Resources/shape_layer.gif" width="200"><br>
+<img src="README_resources/reprecator_layer.gif" width="200"> <img src="README_resources/scroll_layer.gif" width="200"> <img src="README_resources/shape_layer.gif" width="200"><br>
 
-<img src="README_Resources/text_layer.gif" width="200"> <img src="README_Resources/transform_layer.gif" width="200"><br>
+<img src="README_resources/text_layer.gif" width="200"> <img src="README_resources/transform_layer.gif" width="200"><br>
 
 #### Layers and Animations Samples <br>
 
-<img src="README_Resources/contents_gravity.gif" width="200"> <img src="README_Resources/contents_with_shadow.gif" width="200"> <img src="README_Resources/animatable_keypaths.gif" width="200"><br>
+<img src="README_resources/contents_gravity.gif" width="200"> <img src="README_resources/contents_with_shadow.gif" width="200"> <img src="README_resources/animatable_keypaths.gif" width="200"><br>
 
-<img src="README_Resources/custom_action_contents_set_transition.gif" width="200"> <img src="README_Resources/chain_pause_resume.gif" width="200"><br>
+<img src="README_resources/custom_action_contents_set_transition.gif" width="200"> <img src="README_resources/chain_pause_resume.gif" width="200"><br>
 
 ## Author
 
