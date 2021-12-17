@@ -27,7 +27,7 @@ Just build with Xcode 13.
 
 <img src="README_resources/reprecator_layer.gif" width="200"> <img src="README_resources/scroll_layer.gif" width="200"> <img src="README_resources/shape_layer.gif" width="200"><br>
 
-<img src="README_resources/text_layer.gif" width="200"> <img src="README_resources/transform_layer.gif" width="200"><br>
+<img src="README_resources/text_layer.png" width="200"> <img src="README_resources/transform_layer.gif" width="200"><br>
 
 #### Layers and Animations Samples <br>
 
