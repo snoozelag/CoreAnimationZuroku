@@ -37,8 +37,6 @@ Just build with Xcode 13.
 
 ## Author
 
-**Teruto Yamasaki**
-
-iOS programmer in Japan.
+**Teruto Yamasaki** - iOS programmer in Japan.
 
 - CONTACTS: [Twitter @snoozelag](https://twitter.com/snoozelag) / [Facebook](https://www.facebook.com/teruto.yamasaki)
